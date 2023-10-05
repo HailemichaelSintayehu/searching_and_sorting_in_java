@@ -12,6 +12,7 @@ class RecursiveBinarySearch {
             // middle itself
             if (arr[mid] == x)
                 return mid;
+                // // fn =     fn 
 
             // If element is smaller than mid, then
             // it can only be present in left subarray
